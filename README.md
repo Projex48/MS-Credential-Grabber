@@ -33,7 +33,7 @@ Step 7: Click on the GitHub icon, verify that you are on the GitHub home page.
 
 Step 8: Use the search feature in GitHub to bring up this repo, verify that you are on this repository page.
 
-Step 9: Click on this link: https://projex48.github.io/MS-Credential-Grabber/
+Step 9: Click on this link: [https://projex48.github.io/MS-Credential-Grabber/](https://projex48.github.io/MS-Credential-Grabber/)
 
 The device is now on a microsoft login page made to look identical to the university that I currently attend. While this could be changed to represent that standard microsoft login page, this works for demonstration purposes.
 
